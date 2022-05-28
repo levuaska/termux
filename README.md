@@ -19,7 +19,7 @@
    <img src="assets/showcase.jpg" width="400px"></center>
 </div>
     
-<h2>Installation</h2>
+<h2>🔎 Installation</h2>
   
 - Using curl:
   ```
@@ -28,6 +28,6 @@
 
 - And restart app or use other session
   
-<h2>Thanks<h2>
+<h2>💜 Thanks<h2>
 
 - [justleoo](https://github.com/justleoo)
