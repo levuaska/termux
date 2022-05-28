@@ -15,8 +15,10 @@
     </a>
 </div>
 <hr>
-  <img src="assets/showcase.jpg">
-
+  <div align="center">
+   <img src="assets/showcase.jpg" width="400px"></center>
+</div>
+    
 <h2>Installation</h2>
   
 - Using curl:
